@@ -2,6 +2,8 @@
 Apenas para códigos em C
 
 LISTA DE EXERCÍCIOS SOBRE ARRAY
+==================================
+
 ##Todos os arquivos que iniciarem com o nome ARRAY pertencem a este trabalho##
 
     1) Escreva um programa em C que leia 10 números inteiros
