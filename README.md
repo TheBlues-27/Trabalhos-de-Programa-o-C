@@ -8,11 +8,11 @@ LISTA DE EXERCÍCIOS SOBRE ARRAY
 
     1) Escreva um programa em C que leia 10 números inteiros
 em um array, e depois calcule e exiba a soma de todos os
-elementos.
+elementos. OK
 
     2) Leia 8 números inteiros e armazene-os em um array. Depois,
 mostre o maior e o menor valor armazenado, bem como suas
-posições no array.
+posições no array. OK
 
     3) Crie um programa que leia 15 números inteiros e armazene em
 um array. Em seguida, conte e mostre quantos deles são pares
