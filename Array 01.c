@@ -1,4 +1,5 @@
 #include <stdio.h>
+//    1) Escreva um programa em C que leia 10 números inteiros em um array, e depois calcule e exiba a soma de todos os elementos. OK
 
 int main() {
     int array[5],soma = 0;

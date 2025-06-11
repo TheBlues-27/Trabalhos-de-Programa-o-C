@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+// 2) Escreva um programa em C que leia 8 números inteiros em um array, e depois encontre o maior e o menor valor, bem como suas posições no array. OK
 
 int main(){
     int array[8];
